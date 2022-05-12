@@ -1,7 +1,6 @@
 class leetCodeAlgorithms:
     #code explains as it does each step
 
-#this is a test
 
 
     # #twosum
